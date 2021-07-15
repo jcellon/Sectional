@@ -32,6 +32,8 @@
                 @include ('include.messages') 
                 @yield('content')
             </div>
+            <hr>
+            <h6 style="text-align: right;" class="display-6 fst-italic">Developed by: <span style="color: teal">Joseph Castellon</span></h6>
         </div>
     </body>
 </html>
