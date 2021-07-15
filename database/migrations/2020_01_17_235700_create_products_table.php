@@ -19,7 +19,7 @@ class CreateProductsTable extends Migration
             $table->string('sku');
             $table->float('price');
             $table->string('fabric');
-            $table->string('lenght');
+            $table->string('length');
             $table->string('cushion');
             $table->string('bracket');
             $table->timestamps();
