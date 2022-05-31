@@ -5,6 +5,7 @@
 - Laravel MVC application
 - Hosted in Heroku
 - PHP environment (Composer)
+- Bootstrap open-source CSS framework
 - Allows CRUD operations to PostgreSQL database
 - Allows user registration and authentication 
 - GET a list of products from an api list (REST / Web Service)
