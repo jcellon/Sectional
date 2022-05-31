@@ -17,6 +17,8 @@ composer install
 php artisan migrate
 php artisan serve
 ```
+Note: run migrations against your local Database Connection
+
 Navigate to [localhost:8000](http://localhost:8000)
 <br/>
 #### Credits:
